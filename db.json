@@ -1,1 +1,16 @@
-
+[
+  {
+  "id":"1",
+  "nome":"Helio",
+  "cpf":"123.456.789-12",
+  "idade":"20",
+  "email":"helio@helio.com"
+  },
+  {
+    "id":"2",
+    "nome":"Iuri",
+    "cpf":"987.654.321-89",
+    "idade":"20",
+    "email":"iuri@iuri.com"
+  }
+]
